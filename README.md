@@ -1,0 +1,2 @@
+# newbie
+Learning about coding
